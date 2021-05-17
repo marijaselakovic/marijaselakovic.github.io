@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marija Selakovic"
   avatar           : "marijaselakovic.jpeg"
-  bio              : "Computer scientist by education, Manager by title, Tech enthusiast by heart"
+  bio              : "Computer scientist by education\n Manager by title (for now)\n Tech enthusiast by heart"
   location         : "Frankfurt am Main"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=BAPCssIAAAAJ&hl=en"
@@ -101,14 +101,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : https://www.linkedin.com/in/marija-selakovic/
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
