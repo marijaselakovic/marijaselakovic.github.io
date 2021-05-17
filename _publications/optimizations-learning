@@ -3,7 +3,7 @@ title: "Learning to Make Compiler Optimizations More Effective"
 collection: publications
 permalink: /publication/optimizations-learning
 date: June 2021
-venue: 'Annual Symposium on Machine Programming (MAPS) at PLDI.'
+venue: 'Annual Symposium on Machine Programming (MAPS) at PLDI'
 link: 'https://arxiv.org/abs/2102.13514'
 citation: 'Rahim Mammadli, <b>Marija Selakovic</b>, Felix Wolf, Michael Pradel'
 ---
