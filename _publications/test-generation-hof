@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/test-generation-hof
 date: November 2018
 venue: 'Object-Oriented Programming, Systems, Languages & Applications Conference (OOPSLA)'
-paperurl: 'https://dl.acm.org/doi/10.1145/3276531'
+link: 'https://dl.acm.org/doi/10.1145/3276531'
 citation: 'Marija Selakovic, Michael Pradel, Rezwana Karim Nawrin, Frank Tip'
 ---
 
