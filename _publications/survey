@@ -2,7 +2,7 @@
 title: "A Survey of Dynamic Analysis and Test Generation for JavaScript"
 collection: publications
 permalink: /publication/survey
-date: 2017
+date: June 2017
 venue: 'ACM Computing Surveys (CSUR)'
 link: 'https://dl.acm.org/doi/10.1145/3106739'
 citation: 'Esben Andreasen, Liang Gong, Anders Møller, Michael Pradel, <b>Marija Selakovic</b>, Koushik Sen, Cristian-Alexandru Staicu'
