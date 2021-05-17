@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Publications"
+excerpt: "Publications"
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
+---
+
 #### Journal publications:
 
 * Esben Andreasen, Liang Gong, Anders Møller, Michael Pradel, **Marija Selakovic**, Koushik Sen, Cristian-Alexandru Staicu[A Survey of Dynamic Analysis and Test Generation for JavaScript](http://marija.skyresource.com/publications_list/js_survey_2017.pdf)  
