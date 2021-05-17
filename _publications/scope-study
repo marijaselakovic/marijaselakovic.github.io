@@ -1,0 +1,10 @@
+---
+title: "Cross-Language Optimizations in Big Data Systems: A Case Study of SCOPE"
+collection: publications
+permalink: /publication/scope-study
+date: May 2018
+venue: '40th International Conference on Software Engineering (SEIP), Gothenburg, Sweden'
+link: 'https://dl.acm.org/doi/10.1145/3183519.3183528'
+citation: '<b>Marija Selakovic</b>, Michael Barnett, Madan Musuvathi and Todd Mytkowicz'
+---
+[Slides](http://academicpages.github.io/files/paper1.pdf)
