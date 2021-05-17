@@ -1,0 +1,10 @@
+---
+title: "An Actionable Performance Profiler for Optimizing the Order of Evaluations"
+collection: publications
+permalink: /publication/actionable-profiler
+date: July 2017
+venue: 'International Symposium on Software Testing and Analysis, Santa Barbara, CA'
+link: 'hhttps://dl.acm.org/doi/10.1145/3092703.3092716'
+citation: '<b>Marija Selakovic</b>, Thomas Glaser and Michael Pradel'
+---
+[Slides](http://academicpages.github.io/files/paper1.pdf)
