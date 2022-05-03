@@ -1,10 +1,9 @@
 ---
 layout: archive
+title: Blog posts and tutorials
 permalink: /tutorials/
 author_profile: true
 ---
-
-## Blog posts and tutorials:
 
 * [How to automatically create and manage database backups](https://n8n.io/blog/workflow-for-cratedb-backup-management/)
 * [Handling dynamic objects in CrateDB](https://crate.io/blog/handling-dynamic-objects-in-cratedb)
