@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /tutorials/
 title: "Tutorials"
 excerpt: "Tutorials"
