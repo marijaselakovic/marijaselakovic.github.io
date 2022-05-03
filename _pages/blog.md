@@ -1,11 +1,8 @@
 ---
-permalink: /blog
-title: "Blog"
-excerpt: "Blog"
+permalink: /tutorials
+title: "Tutorials"
+excerpt: "Tutorials"
 author_profile: true
-redirect_from: 
-  - /blog/
-  - /blog.html
 ---
 
 ## Blog posts and tutorials:
