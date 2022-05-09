@@ -4,7 +4,7 @@ title: Blog posts and tutorials
 permalink: /tutorials/
 author_profile: true
 ---
-
+* [Feature Focus: Logical Replication](https://crate.io/blog/feature-focus-logical-replication)
 * [How to automatically create and manage database backups](https://n8n.io/blog/workflow-for-cratedb-backup-management/)
 * [Handling dynamic objects in CrateDB](https://crate.io/blog/handling-dynamic-objects-in-cratedb)
 * [Introduction to time series visualization in CrateDB and Superset](https://crate.io/blog/introduction-to-time-series-visualization-in-cratedb-and-superset)
