@@ -4,6 +4,7 @@ title: Blog posts and tutorials
 permalink: /tutorials/
 author_profile: true
 ---
+* [Storing and Querying Hierarchical Data in CrateDB](https://community.crate.io/t/storing-and-querying-hierarchical-data-in-cratedb/1147)
 * [Feature Focus: Logical Replication](https://crate.io/blog/feature-focus-logical-replication)
 * [How to automatically create and manage database backups](https://n8n.io/blog/workflow-for-cratedb-backup-management/)
 * [Handling dynamic objects in CrateDB](https://crate.io/blog/handling-dynamic-objects-in-cratedb)
