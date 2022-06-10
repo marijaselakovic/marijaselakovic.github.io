@@ -4,7 +4,7 @@ title: Blog posts and tutorials
 permalink: /tutorials/
 author_profile: true
 ---
-* [Storing and Querying Hierarchical Data in CrateDB](https://community.crate.io/t/storing-and-querying-hierarchical-data-in-cratedb/1147)
+* [Storing and querying hierarchical data in CrateDB](https://community.crate.io/t/storing-and-querying-hierarchical-data-in-cratedb/1147)
 * [Feature Focus: Logical Replication](https://crate.io/blog/feature-focus-logical-replication)
 * [How to automatically create and manage database backups](https://n8n.io/blog/workflow-for-cratedb-backup-management/)
 * [Handling dynamic objects in CrateDB](https://crate.io/blog/handling-dynamic-objects-in-cratedb)
@@ -14,4 +14,5 @@ author_profile: true
 * [CrateDB and Apache Airflow: Automating data export to S3](https://community.crate.io/t/cratedb-and-apache-airflow-automating-data-export-to-s3/901)
 
 # Webinars
-* [Introduction to Time-Series Visualization in CrateDB and Apache Superset](https://crate.io/resources/webinars/lp-wb-introduction-to-time-series-visualization-in-cratedb-apache-superset)
+* [How to leverage CrateDB 4.8 to its full potential](https://youtu.be/lp51GphV9vo)
+* [Introduction to time-series visualization in CrateDB and Apache Superset](https://crate.io/resources/webinars/lp-wb-introduction-to-time-series-visualization-in-cratedb-apache-superset)
