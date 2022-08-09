@@ -4,6 +4,8 @@ title: Blog posts and tutorials
 permalink: /tutorials/
 author_profile: true
 ---
+* [Distributed query execution in CrateDB: What you need to know](https://crate.io/blog/distributed-query-execution-in-cratedb-what-you-need-to-know)
+* [Multi-tenancy with CrateDB](https://community.crate.io/t/multi-tenancy-with-cratedb/1153)
 * [Storing and querying hierarchical data in CrateDB](https://community.crate.io/t/storing-and-querying-hierarchical-data-in-cratedb/1147)
 * [Feature Focus: Logical Replication](https://crate.io/blog/feature-focus-logical-replication)
 * [How to automatically create and manage database backups](https://n8n.io/blog/workflow-for-cratedb-backup-management/)
