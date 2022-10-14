@@ -1,0 +1,10 @@
+---
+title: "Dynamic workflow orchestration with Apache Airflow and CrateDB"
+collection: talks
+type: "Talk"
+permalink: /talks/devoxx
+link: https://www.youtube.com/watch?v=4ZxEPfbnias
+venue: "Devoxx Belgium"
+date: 2022-10-11
+location: Antwerpen, Belgium
+---
