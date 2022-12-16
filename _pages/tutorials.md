@@ -4,6 +4,7 @@ title: Blog posts and tutorials
 permalink: /tutorials/
 author_profile: true
 ---
+* [Guide to write operations in CrateDB](https://crate.io/blog/guide-to-write-operations-in-cratedb)
 * [Enabling data analysis at scale with Cube and CrateDB](https://crate.io/blog/enabling-data-analysis-at-scale-with-cube-and-cratedb)
 * [Distributed query execution in CrateDB: What you need to know](https://crate.io/blog/distributed-query-execution-in-cratedb-what-you-need-to-know)
 * [Multi-tenancy with CrateDB](https://community.crate.io/t/multi-tenancy-with-cratedb/1153)
