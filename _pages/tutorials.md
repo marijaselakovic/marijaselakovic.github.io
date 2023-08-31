@@ -24,5 +24,7 @@ author_profile: true
 * [CrateDB and Apache Airflow: Automating data export to S3](https://community.crate.io/t/cratedb-and-apache-airflow-automating-data-export-to-s3/901)
 
 # Webinars
+* [How to replicate data from other databases to CrateDB with Debezium and Kafka](https://crate.io/resources/webinars/lp-wb-debezium-kafka)
+* [CrateDB Workshop](https://crate.io/resources/webinars/lp-wb-cratedb-workshop)
 * [How to leverage CrateDB 4.8 to its full potential](https://youtu.be/lp51GphV9vo)
 * [Introduction to time-series visualization in CrateDB and Apache Superset](https://crate.io/resources/webinars/lp-wb-introduction-to-time-series-visualization-in-cratedb-apache-superset)
