@@ -4,6 +4,12 @@ title: Blog posts and tutorials
 permalink: /tutorials/
 author_profile: true
 ---
+* [Run ETL with Astro and CrateDB Cloud in 30min - fully up in the cloud](https://www.astronomer.io/blog/run-etlelt-with-airflow-and-cratedb/)
+* [Data Processing and Analytics with Dask and CrateDB: A Step-by-Step Tutorial](https://crate.io/blog/data-processing-and-analytics-with-dask-and-cratedb)
+* [Backward scrolling cursors in CrateDB](https://crate.io/blog/backward-scrolling-cursors-in-cratedb)
+* [Guide to bitwise operators in CrateDB](https://crate.io/blog/guide-to-bitwise-operators-in-cratedb)
+* [Find the latest reported values with ease. Introducing max_by and min_by aggregations in CrateDB v5.2](https://crate.io/blog/find-the-latest-reported-values-with-ease-introducing-max-by-and-min-by-aggregations-in-cratedb-5.2)
+* [Guide to sharding and partitioning best practices in CrateDB](https://crate.io/blog/guide-to-sharding-and-partitioning-best-practices-in-cratedb)
 * [Guide to write operations in CrateDB](https://crate.io/blog/guide-to-write-operations-in-cratedb)
 * [Enabling data analysis at scale with Cube and CrateDB](https://crate.io/blog/enabling-data-analysis-at-scale-with-cube-and-cratedb)
 * [Distributed query execution in CrateDB: What you need to know](https://crate.io/blog/distributed-query-execution-in-cratedb-what-you-need-to-know)
