@@ -4,6 +4,7 @@ title: Blog posts and tutorials
 permalink: /tutorials/
 author_profile: true
 ---
+* [How to connect your CrateDB data to LLM with LlamaIndex and Azure OpenAI](https://medium.com/p/9486290c5bc0)
 * [Run ETL with Astro and CrateDB Cloud in 30min - fully up in the cloud](https://www.astronomer.io/blog/run-etlelt-with-airflow-and-cratedb/)
 * [Data Processing and Analytics with Dask and CrateDB: A Step-by-Step Tutorial](https://crate.io/blog/data-processing-and-analytics-with-dask-and-cratedb)
 * [Backward scrolling cursors in CrateDB](https://crate.io/blog/backward-scrolling-cursors-in-cratedb)
