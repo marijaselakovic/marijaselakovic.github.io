@@ -4,6 +4,7 @@ title: Blog posts and tutorials
 permalink: /tutorials/
 author_profile: true
 ---
+* [Unlocking the power of vector support and KNN search in CrateDB](https://cratedb.com/blog/unlocking-the-power-of-vector-support-and-knn-search-in-cratedb)
 * [How to connect your CrateDB data to LLM with LlamaIndex and Azure OpenAI](https://medium.com/p/9486290c5bc0)
 * [Run ETL with Astro and CrateDB Cloud in 30min - fully up in the cloud](https://www.astronomer.io/blog/run-etlelt-with-airflow-and-cratedb/)
 * [Data Processing and Analytics with Dask and CrateDB: A Step-by-Step Tutorial](https://crate.io/blog/data-processing-and-analytics-with-dask-and-cratedb)
