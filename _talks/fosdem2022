@@ -2,7 +2,7 @@
 title: "Distributed Join Algorithms in CrateDB"
 collection: talks
 type: "Talk"
-permalink: /talks/fosdem
+permalink: /talks/fosdem2022
 link: https://fosdem.org/2022/schedule/event/distributed_join_cratedb/
 venue: "FOSDEM 2022"
 date: 2022-02-06
