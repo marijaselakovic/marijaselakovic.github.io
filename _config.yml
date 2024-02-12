@@ -157,6 +157,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 incremental: false
+excerpt_separator: "\n\n"
 
 
 # Markdown Processing
